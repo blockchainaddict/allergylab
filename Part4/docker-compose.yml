@@ -1,4 +1,4 @@
-services:
+services: 
     dbhost:
       image: quanticschoolofbusiness/103mysql
     app:
